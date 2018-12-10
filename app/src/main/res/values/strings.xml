@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">StudyAssistants</string>
+
+    <string name="Institution_Name">
+        <item>University of Dhaka</item>
+        <item>University of Rajshahi[5]</item>
+        <item>Bangladesh Agricultural University</item>
+        <item>Bangladesh University of Engineering and Technology</item>
+        <item>University of Chittagong</item>
+        <item>Jahangirnagar University</item>
+        <item>Islamic University, Bangladesh</item>
+        <item>Shahjalal University of Science and Technology</item>
+        <item>Khulna University</item>
+        <item>Bangabandhu Sheikh Mujib Medical University</item>
+        <item>Bangabandhu Sheikh Mujibur Rahman Agricultural University</item>
+        <item>Hajee Mohammad Danesh Science and Technology University</item>
+        <item>Mawlana Bhashani Science and Technology University</item>
+        <item>Patuakhali Science and Technology University</item>
+        <item>Sher-e-Bangla Agricultural University</item>
+        <item>Dhaka University of Engineering and Technology</item>
+        <item>Rajshahi University of Engineering and Technology</item>
+        <item>Chittagong University of Engineering and Technology</item>
+        <item>Khulna University of Engineering and Technology</item>
+        <item>Jagannath University</item>
+        <item>Jatiya Kabi Kazi Nazrul Islam University</item>
+        <item>Chittagong Veterinary and Animal Sciences University</item>
+        <item>Sylhet Agricultural University</item>
+        <item>Comilla University</item>
+        <item>Noakhali Science and Technology University</item>
+        <item>Jessore University of Science and Technology</item>
+        <item>Pabna University of Science and Technology</item>
+        <item>Bangladesh University of Professionals</item>
+        <item>Begum Rokeya University</item>
+        <item>Bangladesh University of Textiles</item>
+        <item>University of Barisal</item>
+        <item>Bangabandhu Sheikh Mujibur Rahman Science and Technology University</item>
+        <item>Bangabandhu Sheikh Mujibur Rahman Maritime University</item>
+        <item>Rangamati Science and Technology University</item>
+        <item>Rabindra University, Bangladesh</item>
+        <item>Bangabandhu Sheikh Mujibur Rahman Digital University</item>
+        <item>Dhaka International University</item>
+        <item>Ahsanullah University of Science and Technology</item>
+        <item>BRAC University</item>
+        <item>East West University</item>
+        <item>North South University</item>
+        <item>American International University-Bangladesh</item>
+        <item>Independent University, Bangladesh</item>
+        <item>Bangladesh University of Business and Technology</item>
+        <item>Gono Bishwabidyalay</item>
+        <item>Hamdard University Bangladesh</item>
+        <item>International Islamic University, Chittagong</item>
+        <item>BGC Trust University Bangladesh</item>
+        <item>Chittagong Independent University</item>
+        <item>University of Science and Technology Chittagong</item>
+        <item>East Delta University</item>
+        <item>Bangladesh Army University of Science and Technology</item>
+        <item>Bangladesh Army International University of Science and Technology</item>
+        <item>Britannia University</item>
+        <item>CCN University of Science and Technology</item>
+        <item>Feni University</item>
+        <item>Bangladesh Army University of Engineering and Technology</item>
+        <item>Premier University, Chittagong</item>
+        <item>Exim Bank Agricultural University Bangladesh</item>
+        <item>Southern University, Bangladesh</item>
+        <item>Port City International University</item>
+        <item>Coxs Bazar International University</item>
+        <item>Notre Dame University Bangladesh</item>
+        <item>Asian University of Bangladesh</item>
+        <item>Asa University Bangladesh</item>
+        <item>Atish Dipankar University of Science and Technology</item>
+        <item>Bangladesh Islami University</item>
+        <item>Bangladesh University</item>
+        <item>Central Women's University</item>
+        <item>City University, Bangladesh</item>
+        <item>Daffodil International University</item>
+        <item>Eastern University, Bangladesh</item>
+        <item>Green University of Bangladesh</item>
+        <item>IBAIS University</item>
+        <item>Sonargaon University</item>
+        <item>International University of Business Agriculture and Technology</item>
+        <item>Manarat International University</item>
+        <item>Millennium University</item>
+        <item>Northern University, Bangladesh</item>
+        <item>North Western University, Bangladesh</item>
+        <item>The University of Comilla, Bangladesh</item>
+        <item>People's University of Bangladesh</item>
+        <item>Presidency University</item>
+        <item>Pundra University of Science and Technology</item>
+        <item>Prime University</item>
+        <item>European University of Bangladesh</item>
+        <item>Primeasia University</item>
+        <item>Queens University</item>
+        <item>Rajshahi Science and Technology University</item>
+        <item>Royal University of Dhaka</item>
+        <item>Shanto-Mariam University of Creative Technology</item>
+        <item>Southeast University</item>
+        <item>Stamford University Bangladesh</item>
+        <item>State University of Bangladesh</item>
+        <item>United International University</item>
+        <item>University of Asia Pacific (Bangladesh)</item>
+        <item>University of Development Alternative</item>
+        <item>University of Information Technology and Sciences</item>
+        <item>University of Liberal Arts Bangladesh</item>
+        <item>Fareast International University</item>
+        <item>University of South Asia, Bangladesh</item>
+        <item>Uttara University</item>
+        <item>Victoria University of Bangladesh</item>
+        <item>Varendra University</item>
+        <item>World University of Bangladesh</item>
+        <item>Leading University</item>
+        <item>Metropolitan University</item>
+        <item>North East University Bangladesh</item>
+        <item>Sylhet International University</item>
+        <item>Khwaja Yunus Ali University</item>
+        <item>Global University Bangladesh</item>
+        <item>University of Creative Technology Chittagong</item>
+        <item>Z H Sikder University of Science and Technology</item>
+        <item>Central University of Science and Technology</item>
+        <item>Canadian University of Bangladesh</item>
+        <item>First Capital University of Bangladesh</item>
+        <item>Ishaka International University</item>
+        <item>Northern University of Business and Technology, Khulna</item>
+        <item>North Bengal International University</item>
+        <item>Ranada Prasad Shaha University</item>
+        <item>Bangladesh University of Health Sciences</item>
+        <item>BGMEA University of Fashion and Technology</item>
+        <item>Islamic University of Technology</item>
+        <item>Asian University for Women</item>
+        <item>Bangladesh Open University</item>
+        <item>National University of Bangladesh</item>
+        <item>Islamic Arabic University</item>
+        <item>Sylhet Engineering College</item>
+        <item>Mymensingh Engineering College</item>
+        <item>Faridpur Engineering College</item>
+        <item>Barisal Engineering College</item>
+
+    </string>
+</resources>
