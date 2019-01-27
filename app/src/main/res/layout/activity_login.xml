@@ -57,6 +57,7 @@
                 android:background="@drawable/feild_corner">
 
                 <android.support.design.widget.TextInputEditText
+                    android:id="@+id/log_email"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@drawable/feild_corner"
@@ -67,6 +68,7 @@
             </android.support.design.widget.TextInputLayout>
 
             <android.support.design.widget.TextInputLayout
+
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_marginTop="13dp"
@@ -74,6 +76,7 @@
                 app:passwordToggleEnabled="true">
 
                 <android.support.design.widget.TextInputEditText
+                    android:id="@+id/log_password"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@drawable/feild_corner"
@@ -85,6 +88,7 @@
             </android.support.design.widget.TextInputLayout>
 
             <Button
+                android:id="@+id/log_in"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_marginTop="15dp"

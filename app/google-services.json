@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "611294460627",
+    "firebase_url": "https://studyassistants-946c5.firebaseio.com",
+    "project_id": "studyassistants-946c5",
+    "storage_bucket": "studyassistants-946c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611294460627:android:ab3ffc86ec1a61eb",
+        "android_client_info": {
+          "package_name": "com.ashik.justice.developer.studyassistants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611294460627-57jvg7haa5v8nb3k2rvupvaa071nuhup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashik.justice.developer.studyassistants",
+            "certificate_hash": "fa9888093e61368a7cbd4a553026c1ad9a2084c4"
+          }
+        },
+        {
+          "client_id": "611294460627-374dbnpoli32980l3e1icvmb3t39l2d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7oU7fnkdTj9mNBQEmQAq01kFdo8hhnh4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611294460627-374dbnpoli32980l3e1icvmb3t39l2d9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

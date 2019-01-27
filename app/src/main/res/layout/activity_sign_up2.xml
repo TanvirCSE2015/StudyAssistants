@@ -54,6 +54,7 @@
                 android:minHeight="55dp">
 
                 <android.support.design.widget.TextInputEditText
+                    android:id="@+id/user_institution"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@drawable/feild_corner"
@@ -73,6 +74,7 @@
                 app:passwordToggleEnabled="true">
 
                 <android.support.design.widget.TextInputEditText
+                    android:id="@+id/user_dept"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@drawable/feild_corner"
@@ -94,6 +96,7 @@
                 app:passwordToggleEnabled="true">
 
                 <android.support.design.widget.TextInputEditText
+                    android:id="@+id/user_desig"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@drawable/feild_corner"
@@ -114,6 +117,7 @@
                 android:visibility="visible">
 
                 <android.support.design.widget.TextInputEditText
+                    android:id="@+id/user_session"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@drawable/feild_corner"
@@ -135,6 +139,7 @@
                 app:passwordToggleEnabled="true">
 
                 <android.support.design.widget.TextInputEditText
+                    android:id="@+id/user_reg"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@drawable/feild_corner"
@@ -154,6 +159,7 @@
                 app:passwordToggleEnabled="true">
 
                 <android.support.design.widget.TextInputEditText
+                    android:id="@+id/user_phone"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@drawable/feild_corner"
@@ -165,6 +171,7 @@
             </android.support.design.widget.TextInputLayout>
 
             <Button
+                android:id="@+id/button_reg"
                 android:layout_width="120dp"
                 android:layout_height="50dp"
                 android:layout_gravity="right|center"
